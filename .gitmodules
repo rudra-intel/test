@@ -1,0 +1,3 @@
+[submodule "qa_msa"]
+	path = qa_msa
+	url = https://github.com/rudra-intel/qa_msa.git
